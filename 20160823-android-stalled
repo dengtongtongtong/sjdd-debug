@@ -1,0 +1,257 @@
+2016-08-23 19:27:24 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:27:31 下午/6.3  INFO/LedongliLocation : system onLocationChanged
+2016-08-23 19:27:31 下午/6.3  INFO/a : lon:116.333144 lat:39.990137 time:8/23 11:27:31 rad:40.0 provider:network
+2016-08-23 19:28:03 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1322 没有运动的帧率：95
+2016-08-23 19:28:04 下午/6.3  INFO/yinxy : FPS:1321
+2016-08-23 19:28:04 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:28:04 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:28:21 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:29:03 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1185 没有运动的帧率：97
+2016-08-23 19:29:04 下午/6.3  INFO/yinxy : FPS:1182
+2016-08-23 19:29:04 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:29:04 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:29:59 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:30:03 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1177 没有运动的帧率：94
+2016-08-23 19:30:04 下午/6.3  INFO/yinxy : FPS:1177
+2016-08-23 19:30:05 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:30:05 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:30:08 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:31:03 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1252 没有运动的帧率：93
+2016-08-23 19:31:04 下午/6.3  INFO/yinxy : FPS:1251
+2016-08-23 19:31:04 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:31:05 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:31:31 下午/6.3  INFO/LedongliLocation : system onLocationChanged
+2016-08-23 19:31:31 下午/6.3  INFO/a : lon:116.333144 lat:39.990137 time:8/23 11:31:31 rad:40.0 provider:network
+2016-08-23 19:32:03 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1141 没有运动的帧率：97
+2016-08-23 19:32:03 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:32:04 下午/6.3  INFO/yinxy : FPS:1139
+2016-08-23 19:32:04 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:32:05 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:33:00 下午/6.3  INFO/XiaobaiApplication :  app onCreate : cn.ledongli.ldl:data , pid : 10237
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onCreate
+2016-08-23 19:33:01 下午/6.3  INFO/CrashCollectorProvider : ledongliServiceSaveFeature{"mHeartbeatTime":0,"mLastLocationTime":1471951651000,"mLastTimeslotTime":1471951924000,"mLocationSpaceTime":0,"mServiceRunSpace":0,"mServiceSpaceTime":0,"mServiceStartTime":1471951024297,"mSplashTime":1471951022931,"mAccWorkFlag":1111,"mBootFlag":false,"mCrashFlag":false,"mScreenOnFlag":false,"mStepCounterFlag":false}
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : <acquirePartialWakeLock>
+2016-08-23 19:33:01 下午/6.3  INFO/EnvironmentDetector : 获取mGravity的值 9.592558
+2016-08-23 19:33:01 下午/6.3  INFO/xingxingyao : brand is CHE-TL00H
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : use ACC~~
+2016-08-23 19:33:01 下午/6.3  INFO/OriginNormalState : Normal OriginState
+2016-08-23 19:33:01 下午/6.3  INFO/OriginNormalState : Normal OriginState
+2016-08-23 19:33:01 下午/6.3  INFO/OriginHeartBeatState : HB OriginState
+2016-08-23 19:33:01 下午/6.3  INFO/OriginAccStrategy : USE HIBER mod
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : normalState start
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : <registerStateSensor>
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : <acquirePartialWakeLock>
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : requireWakeLockIfNecessary -- true
+2016-08-23 19:33:01 下午/6.3  INFO/LocationTracker : startCoarseTrack
+2016-08-23 19:33:01 下午/6.3  DEBUG/LedongliLocation : request:passive
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:01 下午/6.3  INFO/yinxy : FPS:1
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:08 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:33:56 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:34:01 下午/6.3  INFO/yinxy : FPS:1102
+2016-08-23 19:34:01 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:34:01 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1103 没有运动的帧率：92
+2016-08-23 19:34:01 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:35:01 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:35:01 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:35:01 下午/6.3  INFO/yinxy : FPS:1082
+2016-08-23 19:35:01 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1084 没有运动的帧率：99
+2016-08-23 19:35:14 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:35:41 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:36:01 下午/6.3  INFO/yinxy : FPS:1084
+2016-08-23 19:36:01 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:36:01 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:36:26 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1092 没有运动的帧率：99
+2016-08-23 19:36:31 下午/6.3  DEBUG/LedongliLocation : request:network
+2016-08-23 19:36:33 下午/6.3  INFO/LedongliLocation : gaode onLocationChanged
+2016-08-23 19:36:33 下午/6.3  INFO/LocationTracker : lon:116.339581 lat:39.991355 time:8/23 11:36:32 rad:72.0 provider:lbs
+2016-08-23 19:37:01 下午/6.3  INFO/yinxy : FPS:1222
+2016-08-23 19:37:01 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:37:01 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:37:03 下午/6.3  DEBUG/LedongliLocation : request:passive
+2016-08-23 19:37:26 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1255 没有运动的帧率：98
+2016-08-23 19:38:01 下午/6.3  INFO/yinxy : FPS:1126
+2016-08-23 19:38:01 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:38:01 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:38:02 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:38:26 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1096 没有运动的帧率：99
+2016-08-23 19:38:50 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:39:01 下午/6.3  INFO/yinxy : FPS:1101
+2016-08-23 19:39:01 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:39:01 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:39:26 下午/6.3  INFO/XiaobaiApplication :  app onCreate : cn.ledongli.ldl:data , pid : 17610
+2016-08-23 19:39:26 下午/6.3  INFO/LedongliService : LedongliService onCreate
+2016-08-23 19:39:26 下午/6.3  INFO/CrashCollectorProvider : ledongliServiceSaveFeature{"mHeartbeatTime":0,"mLastLocationTime":1471952192000,"mLastTimeslotTime":1471952341000,"mLocationSpaceTime":0,"mServiceRunSpace":0,"mServiceSpaceTime":0,"mServiceStartTime":1471951981221,"mSplashTime":1471951981233,"mAccWorkFlag":1111,"mBootFlag":false,"mCrashFlag":false,"mScreenOnFlag":false,"mStepCounterFlag":false}
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : <acquirePartialWakeLock>
+2016-08-23 19:39:26 下午/6.3  INFO/EnvironmentDetector : 获取mGravity的值 9.592558
+2016-08-23 19:39:26 下午/6.3  INFO/xingxingyao : brand is CHE-TL00H
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : use ACC~~
+2016-08-23 19:39:26 下午/6.3  INFO/OriginNormalState : Normal OriginState
+2016-08-23 19:39:26 下午/6.3  INFO/OriginNormalState : Normal OriginState
+2016-08-23 19:39:26 下午/6.3  INFO/OriginHeartBeatState : HB OriginState
+2016-08-23 19:39:26 下午/6.3  INFO/OriginAccStrategy : USE HIBER mod
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : normalState start
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : <registerStateSensor>
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : <acquirePartialWakeLock>
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : requireWakeLockIfNecessary -- true
+2016-08-23 19:39:26 下午/6.3  INFO/LocationTracker : startCoarseTrack
+2016-08-23 19:39:26 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:39:26 下午/6.3  DEBUG/LedongliLocation : request:passive
+2016-08-23 19:39:26 下午/6.3  INFO/yinxy : FPS:1
+2016-08-23 19:39:26 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:39:26 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:39:26 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:39:26 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:40:26 下午/6.3  INFO/yinxy : FPS:1181
+2016-08-23 19:40:26 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:40:26 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1182 没有运动的帧率：95
+2016-08-23 19:40:26 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:40:44 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:40:44 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:40:48 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:41:26 下午/6.3  INFO/yinxy : FPS:1168
+2016-08-23 19:41:26 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:41:26 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:41:26 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1169 没有运动的帧率：98
+2016-08-23 19:41:30 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:05 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:15 下午/6.3  INFO/XiaobaiApplication :  app onCreate : cn.ledongli.ldl:data , pid : 21414
+2016-08-23 19:42:15 下午/6.3  INFO/LedongliService : LedongliService onCreate
+2016-08-23 19:42:15 下午/6.3  INFO/CrashCollectorProvider : ledongliServiceSaveFeature{"mHeartbeatTime":0,"mLastLocationTime":1471952192000,"mLastTimeslotTime":1471952486000,"mLocationSpaceTime":0,"mServiceRunSpace":0,"mServiceSpaceTime":0,"mServiceStartTime":1471952366229,"mSplashTime":1471952444197,"mAccWorkFlag":1111,"mBootFlag":false,"mCrashFlag":false,"mScreenOnFlag":false,"mStepCounterFlag":false}
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : <acquirePartialWakeLock>
+2016-08-23 19:42:15 下午/6.3  INFO/EnvironmentDetector : 获取mGravity的值 9.592558
+2016-08-23 19:42:15 下午/6.3  INFO/xingxingyao : brand is CHE-TL00H
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : use ACC~~
+2016-08-23 19:42:15 下午/6.3  INFO/OriginNormalState : Normal OriginState
+2016-08-23 19:42:15 下午/6.3  INFO/OriginNormalState : Normal OriginState
+2016-08-23 19:42:15 下午/6.3  INFO/OriginHeartBeatState : HB OriginState
+2016-08-23 19:42:15 下午/6.3  INFO/OriginAccStrategy : USE HIBER mod
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : normalState start
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : <registerStateSensor>
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : <acquirePartialWakeLock>
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : requireWakeLockIfNecessary -- true
+2016-08-23 19:42:15 下午/6.3  INFO/LocationTracker : startCoarseTrack
+2016-08-23 19:42:15 下午/6.3  DEBUG/LedongliLocation : request:passive
+2016-08-23 19:42:15 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:15 下午/6.3  INFO/yinxy : FPS:1
+2016-08-23 19:42:15 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:15 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:15 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:42:15 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:09 下午/6.3  INFO/XiaobaiApplication :  app onCreate : cn.ledongli.ldl:data , pid : 22420
+2016-08-23 19:43:09 下午/6.3  INFO/LedongliService : LedongliService onCreate
+2016-08-23 19:43:10 下午/6.3  INFO/CrashCollectorProvider : ledongliServiceSaveFeature{"mHeartbeatTime":0,"mLastLocationTime":0,"mLastTimeslotTime":0,"mLocationSpaceTime":0,"mServiceRunSpace":0,"mServiceSpaceTime":0,"mServiceStartTime":0,"mSplashTime":0,"mAccWorkFlag":1111,"mBootFlag":false,"mCrashFlag":false,"mScreenOnFlag":false,"mStepCounterFlag":false}
+2016-08-23 19:43:10 下午/6.3  INFO/d : 获取mGravity的值 9.812345
+2016-08-23 19:43:10 下午/6.3  INFO/yinxy : use ACC~~
+2016-08-23 19:43:10 下午/6.3  INFO/j : Normal OriginState
+2016-08-23 19:43:10 下午/6.3  INFO/j : Normal OriginState
+2016-08-23 19:43:10 下午/6.3  INFO/i : HB OriginState
+2016-08-23 19:43:10 下午/6.3  INFO/h : USE HIBER mod
+2016-08-23 19:43:10 下午/6.3  INFO/a : startCoarseTrack
+2016-08-23 19:43:10 下午/6.3  INFO/yinxy : FPS:1
+2016-08-23 19:43:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:11 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:11 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:43:12 下午/6.3  INFO/d : Gravity is 9.440533
+2016-08-23 19:43:20 下午/6.3  INFO/LedongliLocation : system onLocationChanged
+2016-08-23 19:43:20 下午/6.3  INFO/a : lon:116.333144 lat:39.990137 time:8/23 11:43:19 rad:40.0 provider:network
+2016-08-23 19:43:28 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:44:10 下午/6.3  INFO/yinxy : FPS:1215
+2016-08-23 19:44:10 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1216 没有运动的帧率：99
+2016-08-23 19:44:10 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:44:10 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:45:10 下午/6.3  INFO/yinxy : FPS:1148
+2016-08-23 19:45:10 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:45:10 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1149 没有运动的帧率：99
+2016-08-23 19:45:10 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:46:10 下午/6.3  INFO/yinxy : FPS:1140
+2016-08-23 19:46:10 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:46:10 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:46:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1142 没有运动的帧率：97
+2016-08-23 19:47:10 下午/6.3  INFO/yinxy : FPS:1133
+2016-08-23 19:47:10 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:47:10 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:47:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1126 没有运动的帧率：99
+2016-08-23 19:47:20 下午/6.3  INFO/LedongliLocation : gaode onLocationChanged
+2016-08-23 19:47:20 下午/6.3  INFO/a : lon:116.339605 lat:39.99135 time:8/23 11:47:20 rad:68.0 provider:lbs
+2016-08-23 19:48:10 下午/6.3  INFO/yinxy : FPS:1146
+2016-08-23 19:48:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:48:11 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:48:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:48:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1151 没有运动的帧率：99
+2016-08-23 19:49:10 下午/6.3  INFO/yinxy : FPS:1269
+2016-08-23 19:49:10 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:49:10 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:49:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1269 没有运动的帧率：99
+2016-08-23 19:50:10 下午/6.3  INFO/yinxy : FPS:1143
+2016-08-23 19:50:10 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:50:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:50:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1146 没有运动的帧率：100
+2016-08-23 19:50:24 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:51:10 下午/6.3  INFO/yinxy : FPS:1133
+2016-08-23 19:51:11 下午/6.3  INFO/daipengfei : DailyStats.step = 0
+2016-08-23 19:51:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:51:20 下午/6.3  INFO/LedongliLocation : system onLocationChanged
+2016-08-23 19:51:20 下午/6.3  INFO/a : lon:116.339605 lat:39.99135 time:8/23 11:51:20 rad:68.0 provider:lbs
+2016-08-23 19:51:43 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:51:43 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:52:01 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:52:10 下午/6.3  INFO/yinxy : FPS:1167
+2016-08-23 19:52:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:52:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:52:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1156 没有运动的帧率：83
+2016-08-23 19:53:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:53:10 下午/6.3  INFO/yinxy : FPS:1060
+2016-08-23 19:53:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:53:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:53:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1068 没有运动的帧率：97
+2016-08-23 19:53:22 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:53:28 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:53:30 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:54:10 下午/6.3  INFO/yinxy : FPS:1147
+2016-08-23 19:54:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:54:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:54:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1182 没有运动的帧率：98
+2016-08-23 19:55:10 下午/6.3  INFO/yinxy : FPS:1210
+2016-08-23 19:55:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:55:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:55:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1171 没有运动的帧率：98
+2016-08-23 19:55:50 下午/6.3  INFO/LedongliLocation : system onLocationChanged
+2016-08-23 19:55:50 下午/6.3  INFO/a : lon:116.333144 lat:39.990137 time:8/23 11:55:49 rad:40.0 provider:network
+2016-08-23 19:56:10 下午/6.3  INFO/yinxy : FPS:1090
+2016-08-23 19:56:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:56:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:56:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1100 没有运动的帧率：97
+2016-08-23 19:56:38 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:57:11 下午/6.3  INFO/yinxy : FPS:1106
+2016-08-23 19:57:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:57:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:57:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is false  当前的总帧数是 mTotalFrame 1100 没有运动的帧率：98
+2016-08-23 19:57:16 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:57:16 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:57:26 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:58:10 下午/6.3  INFO/LedongliService : LedongliService onStartCommand
+2016-08-23 19:58:11 下午/6.3  INFO/yinxy : FPS:1076
+2016-08-23 19:58:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:58:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:58:14 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1085 没有运动的帧率：99
+2016-08-23 19:59:11 下午/6.3  INFO/yinxy : FPS:1145
+2016-08-23 19:59:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 19:59:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
+2016-08-23 19:59:32 下午/6.3  INFO/NormalStateWithHibernation : Normal状态的一个检测阶段结束，判断是否需要进入HB: TIME_INTERVAL is true  当前的总帧数是 mTotalFrame 1158 没有运动的帧率：97
+2016-08-23 19:59:50 下午/6.3  INFO/LedongliLocation : system onLocationChanged
+2016-08-23 19:59:50 下午/6.3  INFO/a : lon:116.333144 lat:39.990137 time:8/23 11:59:50 rad:40.0 provider:network
+2016-08-23 20:00:11 下午/6.3  INFO/yinxy : FPS:1200
+2016-08-23 20:00:11 下午/6.3  INFO/daipengfei : DailyStats.step = 10
+2016-08-23 20:00:11 下午/6.3  INFO/yinxy : mNotificationReceiver onReceive processName=cn.ledongli.ldl:data
